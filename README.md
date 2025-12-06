@@ -4,3 +4,4 @@
 4. 模型最後權重: /runs/detect/train/weights/last.pt
 2. streamlit網站: app, utils, requirements (執行: streamlit run app.py)
 3. demo.mp4: 網站偵測結果
+
